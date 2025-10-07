@@ -2,92 +2,92 @@
   {
     "id": 1,
     "nombre": "Pizzas",
-    "fotoUrl": "https://www.laespanolaaceites.com/wp-content/uploads/2019/06/pizza-con-chorizo-jamon-y-queso-1080x671.jpg",
+    "fotoUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=400",
     "productos": []
   },
   {
     "id": 2,
     "nombre": "Hamburguesas",
-    "fotoUrl": "https://img.freepik.com/vector-gratis/hamburguesa-realista-sobre-fondo-pizarra_79603-1042.jpg?w=2000",
+    "fotoUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400",
     "productos": [
       {
         "id": "1",
-        "nombre":"Hamburguesa con queso",
+        "nombre": "Hamburguesa con queso",
         "precio": 0,
-        "esVegano":false,
-        "esCeliaco":false,
-        "ingredientes": ["Carne de ternera","Pan Brioche","Queso"],
-        "fotoUrl": "https://quem.com.ar/tienda/wp-content/uploads/2020/12/Grandwich_17-10_-061.jp"
+        "esVegano": false,
+        "esCeliaco": false,
+        "ingredientes": ["Carne de ternera", "Pan Brioche", "Queso"],
+        "fotoUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400"
       },
       {
         "id": "2",
-        "nombre":"Hamburguesa especial",
+        "nombre": "Hamburguesa especial",
         "precio": 0,
-        "esVegano":false,
-        "esCeliaco":false,
-        "ingredientes": ["Carne de ternera","Pan Brioche","Queso", "Tomate", "Lechuga"],
-        "fotoUrl": "https://elsheriffburger.com/uploads/lh90_elsheriffbuger/products/54/es/img-H.-Especial-5-WEB-de-taman%CC%83o-mediano.jpg"
+        "esVegano": false,
+        "esCeliaco": false,
+        "ingredientes": ["Carne de ternera", "Pan Brioche", "Queso", "Tomate", "Lechuga"],
+        "fotoUrl": "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?w=400"
       },
       {
         "id": "3",
-        "nombre":"Hamburguesa vegana",
+        "nombre": "Hamburguesa vegana",
         "precio": 0,
-        "esVegano":true,
-        "esCeliaco":false,
-        "ingredientes": ["Medallón a base de lentejas","Pan Brioche","Tomate"],
-        "fotoUrl": "https://www.pequerecetas.com/wp-content/uploads/2009/04/hamburguesa-de-garbanzos-casera-receta.jpg"
+        "esVegano": true,
+        "esCeliaco": false,
+        "ingredientes": ["Medallón a base de lentejas", "Pan Brioche", "Tomate"],
+        "fotoUrl": "https://images.unsplash.com/photo-1525059696034-4967a7290042?w=400"
       },
       {
         "id": "4",
-        "nombre":"Hamburguesa celíaca",
+        "nombre": "Hamburguesa celíaca",
         "precio": 0,
-        "esVegano":false,
-        "esCeliaco":true,
-        "ingredientes": ["Carne de ternera","Pan libre de tacc","Queso"],
-        "fotoUrl": "https://www.perez-h.com/newsite/wp-content/uploads/2016/06/queso-2.jpg"
+        "esVegano": false,
+        "esCeliaco": true,
+        "ingredientes": ["Carne de ternera", "Pan libre de tacc", "Queso"],
+        "fotoUrl": "https://images.unsplash.com/photo-1553979459-d2229ba7433b?w=400"
       },
       {
         "id": "5",
-        "nombre":"Hamburguesa americana",
+        "nombre": "Hamburguesa americana",
         "precio": 0,
-        "esVegano":false,
-        "esCeliaco":false,
-        "ingredientes": ["Carne de ternera","Pan Brioche","Queso","Salsa secreta BBQ", "Panceta"],
-        "fotoUrl": "https://www.clarin.com/img/2022/05/27/0HXb0UR0v_2000x1500__1.jpg"
+        "esVegano": false,
+        "esCeliaco": false,
+        "ingredientes": ["Carne de ternera", "Pan Brioche", "Queso", "Salsa secreta BBQ", "Panceta"],
+        "fotoUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400"
       },
       {
         "id": "6",
-        "nombre":"Medallón platero",
+        "nombre": "Medallón platero",
         "precio": 0,
-        "esVegano":true,
-        "esCeliaco":true,
-        "ingredientes": ["Medallón a base de lentejas","Tomate","Lechuga"],
-        "fotoUrl": "https://canalcocina.es/medias/images/1010_Coc_RecetasDeAnnie_HamburguesaQueso.jpg"
+        "esVegano": true,
+        "esCeliaco": true,
+        "ingredientes": ["Medallón a base de lentejas", "Tomate", "Lechuga"],
+        "fotoUrl": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=400"
       }
     ]
   },
   {
     "id": 3,
     "nombre": "Postres",
-    "fotoUrl": "https://www.recetasnestle.com.ar/sites/default/files/2023-03/postre-en-vaso-dulce-leche.jpg.jpg",
+    "fotoUrl": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=400",
     "productos": []
   },
   {
     "id": 4,
     "nombre": "Bebidas",
-    "fotoUrl": "https://img.band.uol.com.br/image/2023/02/09/bebidas-alcoolicas-181014_800x450.webp",
+    "fotoUrl": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=400",
     "productos": []
   },
   {
     "id": 5,
     "nombre": "Combos",
-    "fotoUrl": "https://i-ticketing.iwos.com/1000x1000-th/products/220/products_220_2.png",
+    "fotoUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400",
     "productos": []
   },
   {
     "id": 6,
     "nombre": "Recomendados",
-    "fotoUrl": "https://eldiariony.com/wp-content/uploads/sites/2/2023/06/shutterstock_521741356.jpg?resize=360,270&quality=80",
+    "fotoUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400",
     "productos": []
   }
 ]
